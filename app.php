@@ -1,13 +1,20 @@
 <?php
 
-class Teste{
+class Teste
+{
 
-function teste(){
+  function teste(){
 
-  echo 'teste';
+    echo 'teste';
+  }
 
-}
-
+  function novoTeste($teste){
+    
+    $letras = explode($teste);
+    foreach($letras as $l){
+      echo $l . '\n';
+    }
+  }
 
 }
 
