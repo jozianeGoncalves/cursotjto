@@ -1,3 +1,4 @@
 Linha alterada com sucesso - Jonathan :P
 Adicionanda nova linhas - Addah
-Não consigo criar conflitos - Addah
+Nï¿½o consigo criar conflitos - Addah
+Tentando criar mais um conflito pra Jozi - Jonathan
