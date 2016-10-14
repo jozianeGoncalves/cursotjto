@@ -1,3 +1,3 @@
 Linha alterada com sucesso - Jonathan :P
 Adicionanda nova linhas - Addah
-Não consigo criar conflitos - Addah
+Conflito criado com sucesso - Addah
